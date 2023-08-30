@@ -8,8 +8,6 @@ hand-written digits, from 0-9.
 
 """
 
-# Author: Gael Varoquaux <gael dot varoquaux at normalesup dot org>
-# License: BSD 3 clause
 
 
 from util_fun import load_and_visualize_digits, preprocess_data, train_and_predict, visualize_predictions, evaluate_classifier
